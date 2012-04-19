@@ -1,0 +1,15 @@
+{
+    "name": "basic-discrete-math",
+    "version": "0.0.1",
+    "author": "Sam Halperin <sqh@me.com>",
+    "description": "Simple computations from a discrete math class.  Based on Rosen.",
+    "contributors": [
+        {name: "Sam Halperin",
+         email: "sqh@me.com"
+        }
+    ],
+    "license": "MIT",
+    "main": "./lib/basic-discrete-math"
+}
+    
+    
